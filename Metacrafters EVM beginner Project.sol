@@ -4,8 +4,8 @@ pragma solidity >=0.8.2 <0.9.0;
 
 contract MyToken{
 
-    string public Token_Name="AG";
-    string public Token_Abbrv="AG";
+    string public Token_Name="goku";
+    string public Token_Abbrv="goku";
     uint public Total_Supply=0;
 
 
